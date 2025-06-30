@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "@types/express-validator": "^3.0.2",
+    "express-validator": "^7.2.1",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "del-cli": "^6.0.0"
+  }
 }
